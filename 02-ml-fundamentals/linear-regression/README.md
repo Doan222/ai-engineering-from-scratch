@@ -527,16 +527,6 @@ These exercises used separate generated data/workflows; **do not interpret their
 - Feature scaling changes what a coefficient means numerically.
 - Evaluation should represent unseen examples and the business context.
 
-## 22. Next learning goals
-
-- [ ] Plot predictions and residuals.
-- [ ] Compare training, validation and test errors.
-- [ ] Learn cross-validation and model selection.
-- [ ] Build a `Pipeline` combining preprocessing and Ridge.
-- [ ] Explore Lasso and Elastic Net.
-- [ ] Learn to encode categorical data and handle missing values.
-- [ ] Start Logistic Regression (classification rather than continuous-number regression).
-- [ ] Build and document an end-to-end synthetic business prediction example.
 
 ---
 
@@ -547,4 +537,4 @@ These exercises used separate generated data/workflows; **do not interpret their
 - `linear_regression_sklearn.py` — Scikit-learn Linear, Polynomial and Ridge exercises.
 - `experiments.md` — reproducible experiments and notes.
 
-> **Learning principle:** Understand the idea → read the Python syntax → track what changes in the data → test assumptions → evaluate on unseen examples → explain what the results mean for the business.
+
